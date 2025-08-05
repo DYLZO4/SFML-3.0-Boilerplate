@@ -86,10 +86,24 @@ CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dylan/git/SFML-3.0-Boilerplate/src/ExampleState.cpp -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.s
 
+CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/flags.make
+CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o: /home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp
+CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o -MF CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o.d -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp
+
+CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp > CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.i
+
+CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.s
+
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/flags.make
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o: /home/dylan/git/SFML-3.0-Boilerplate/src/StateManager.cpp
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o -MF CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o.d -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/StateManager.cpp
 
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.i: cmake_force
@@ -103,7 +117,7 @@ CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.s: cmake_force
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/flags.make
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o: /home/dylan/git/SFML-3.0-Boilerplate/src/main.cpp
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o: CMakeFiles/SFML-3.0-Boilerplate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o -MF CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o.d -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/main.cpp
 
 CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.i: cmake_force
@@ -117,6 +131,7 @@ CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.s: cmake_force
 # Object files for target SFML-3.0-Boilerplate
 SFML__3_0__Boilerplate_OBJECTS = \
 "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o" \
+"CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o" \
 "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o" \
 "CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o"
 
@@ -124,12 +139,13 @@ SFML__3_0__Boilerplate_OBJECTS = \
 SFML__3_0__Boilerplate_EXTERNAL_OBJECTS =
 
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o
+SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/build.make
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/compiler_depend.ts
 SFML-3.0-Boilerplate: CMakeFiles/SFML-3.0-Boilerplate.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable SFML-3.0-Boilerplate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable SFML-3.0-Boilerplate"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SFML-3.0-Boilerplate.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

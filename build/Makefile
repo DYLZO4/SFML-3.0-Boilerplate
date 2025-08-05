@@ -153,6 +153,30 @@ src/ExampleState.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.s
 .PHONY : src/ExampleState.cpp.s
 
+src/MenuState.o: src/MenuState.cpp.o
+.PHONY : src/MenuState.o
+
+# target to build an object file
+src/MenuState.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o
+.PHONY : src/MenuState.cpp.o
+
+src/MenuState.i: src/MenuState.cpp.i
+.PHONY : src/MenuState.i
+
+# target to preprocess a source file
+src/MenuState.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.i
+.PHONY : src/MenuState.cpp.i
+
+src/MenuState.s: src/MenuState.cpp.s
+.PHONY : src/MenuState.s
+
+# target to generate assembly for a file
+src/MenuState.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.s
+.PHONY : src/MenuState.cpp.s
+
 src/StateManager.o: src/StateManager.cpp.o
 .PHONY : src/StateManager.o
 
@@ -213,6 +237,9 @@ help:
 	@echo "... src/ExampleState.o"
 	@echo "... src/ExampleState.i"
 	@echo "... src/ExampleState.s"
+	@echo "... src/MenuState.o"
+	@echo "... src/MenuState.i"
+	@echo "... src/MenuState.s"
 	@echo "... src/StateManager.o"
 	@echo "... src/StateManager.i"
 	@echo "... src/StateManager.s"

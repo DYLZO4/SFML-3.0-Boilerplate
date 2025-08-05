@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SFML-3.0-Boilerplate.dir/link.d"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o.d"
+  "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o"
+  "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o.d"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o.d"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o"

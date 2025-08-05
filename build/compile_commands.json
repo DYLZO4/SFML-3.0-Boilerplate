@@ -7,6 +7,12 @@
 },
 {
   "directory": "/home/dylan/git/SFML-3.0-Boilerplate/build",
+  "command": "/usr/bin/c++  -I/home/dylan/git/SFML-3.0-Boilerplate/include -g -std=gnu++20 -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp",
+  "file": "/home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp",
+  "output": "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o"
+},
+{
+  "directory": "/home/dylan/git/SFML-3.0-Boilerplate/build",
   "command": "/usr/bin/c++  -I/home/dylan/git/SFML-3.0-Boilerplate/include -g -std=gnu++20 -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/StateManager.cpp",
   "file": "/home/dylan/git/SFML-3.0-Boilerplate/src/StateManager.cpp",
   "output": "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o"
