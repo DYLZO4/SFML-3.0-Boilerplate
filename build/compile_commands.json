@@ -1,6 +1,12 @@
 [
 {
   "directory": "/home/dylan/git/SFML-3.0-Boilerplate/build",
+  "command": "/usr/bin/c++  -I/home/dylan/git/SFML-3.0-Boilerplate/include -g -std=gnu++20 -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/AnimatedSprite.cpp",
+  "file": "/home/dylan/git/SFML-3.0-Boilerplate/src/AnimatedSprite.cpp",
+  "output": "CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o"
+},
+{
+  "directory": "/home/dylan/git/SFML-3.0-Boilerplate/build",
   "command": "/usr/bin/c++  -I/home/dylan/git/SFML-3.0-Boilerplate/include -g -std=gnu++20 -o CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o -c /home/dylan/git/SFML-3.0-Boilerplate/src/ExampleState.cpp",
   "file": "/home/dylan/git/SFML-3.0-Boilerplate/src/ExampleState.cpp",
   "output": "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o"

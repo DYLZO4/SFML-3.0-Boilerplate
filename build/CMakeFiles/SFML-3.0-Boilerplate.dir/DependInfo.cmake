@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/dylan/git/SFML-3.0-Boilerplate/src/AnimatedSprite.cpp" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o" "gcc" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o.d"
   "/home/dylan/git/SFML-3.0-Boilerplate/src/ExampleState.cpp" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o" "gcc" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o.d"
   "/home/dylan/git/SFML-3.0-Boilerplate/src/MenuState.cpp" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o" "gcc" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o.d"
   "/home/dylan/git/SFML-3.0-Boilerplate/src/StateManager.cpp" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o" "gcc" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o.d"

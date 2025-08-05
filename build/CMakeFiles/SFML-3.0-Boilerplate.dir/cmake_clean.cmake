@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SFML-3.0-Boilerplate.dir/link.d"
+  "CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o"
+  "CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o.d"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o.d"
   "CMakeFiles/SFML-3.0-Boilerplate.dir/src/MenuState.cpp.o"

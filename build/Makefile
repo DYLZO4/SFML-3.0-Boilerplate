@@ -129,6 +129,30 @@ SFML-3.0-Boilerplate/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/build
 .PHONY : SFML-3.0-Boilerplate/fast
 
+src/AnimatedSprite.o: src/AnimatedSprite.cpp.o
+.PHONY : src/AnimatedSprite.o
+
+# target to build an object file
+src/AnimatedSprite.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.o
+.PHONY : src/AnimatedSprite.cpp.o
+
+src/AnimatedSprite.i: src/AnimatedSprite.cpp.i
+.PHONY : src/AnimatedSprite.i
+
+# target to preprocess a source file
+src/AnimatedSprite.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.i
+.PHONY : src/AnimatedSprite.cpp.i
+
+src/AnimatedSprite.s: src/AnimatedSprite.cpp.s
+.PHONY : src/AnimatedSprite.s
+
+# target to generate assembly for a file
+src/AnimatedSprite.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML-3.0-Boilerplate.dir/build.make CMakeFiles/SFML-3.0-Boilerplate.dir/src/AnimatedSprite.cpp.s
+.PHONY : src/AnimatedSprite.cpp.s
+
 src/ExampleState.o: src/ExampleState.cpp.o
 .PHONY : src/ExampleState.o
 
@@ -234,6 +258,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... SFML-3.0-Boilerplate"
+	@echo "... src/AnimatedSprite.o"
+	@echo "... src/AnimatedSprite.i"
+	@echo "... src/AnimatedSprite.s"
 	@echo "... src/ExampleState.o"
 	@echo "... src/ExampleState.i"
 	@echo "... src/ExampleState.s"

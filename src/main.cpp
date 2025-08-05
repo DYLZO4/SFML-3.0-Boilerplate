@@ -1,4 +1,5 @@
 #include "ExampleState.hpp"
+#include "MenuState.hpp"
 #include "StateManager.hpp"
 #include <SFML/Graphics.hpp>
 #include <SFML/System/Vector2.hpp>
@@ -12,11 +13,11 @@ int main() {
   unsigned int frameRate = 60;
 
   sf::RenderWindow window(sf::VideoMode({windowWidth, windowHeight}),
-                          "Game Name");
+                          "SFML Boilerplate");
   window.setFramerateLimit(60);
 
   StateManager stateManager;
-  stateManager.pushState(std::make_unique<ExampleState>());
+  stateManager.pushState(std::make_unique<MenuState>(windowWidth, windowHeight));
 
   sf::Clock frameClock;
 
@@ -50,6 +51,8 @@ int main() {
 
     // Event Handling
     while (const std::optional event = window.pollEvent()) {
+      if (event->is<sf::Event::Closed>())
+        window.close();
       currentState->handleEvent(window, event);
     }
 
