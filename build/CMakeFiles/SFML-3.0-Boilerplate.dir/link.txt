@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/SFML-3.0-Boilerplate.dir/link.d "CMakeFiles/SFML-3.0-Boilerplate.dir/src/ExampleState.cpp.o" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/StateManager.cpp.o" "CMakeFiles/SFML-3.0-Boilerplate.dir/src/main.cpp.o" -o SFML-3.0-Boilerplate  -lsfml-graphics -lsfml-window -lsfml-system

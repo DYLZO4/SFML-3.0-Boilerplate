@@ -1,0 +1,3 @@
+/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles/SFML-3.0-Boilerplate.dir
+/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles/edit_cache.dir
+/home/dylan/git/SFML-3.0-Boilerplate/build/CMakeFiles/rebuild_cache.dir
