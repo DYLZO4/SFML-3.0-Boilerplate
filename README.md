@@ -33,11 +33,11 @@ sfml-boilerplate/
 
 For html:
 
- <pre><code>git clone https://github.com/DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name></code></pre>
+ <pre><code>git clone https://github.com/DYLZO4/SFML-3.0-Boilerplate.git new-directory-name</code></pre>
 
 For ssh:
 
-  <pre><code>git@github.com:DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name></code></pre>
+  <pre><code>git@github.com:DYLZO4/SFML-3.0-Boilerplate.git new-directory-name</code></pre>
 
 ### Navigate to project
 <pre><code>mkdir -p build
@@ -53,7 +53,7 @@ cd build</code></pre>
 <pre><code>make</code></pre>
 
 ### Running
-<pre><code>./<project-name></code></pre>
+<pre><code>./project-name</code></pre>
 
 ## 🧰 Customization Tips
 - Change project name in CMakeLists.txt
