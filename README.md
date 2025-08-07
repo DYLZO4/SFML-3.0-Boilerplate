@@ -40,11 +40,11 @@ For ssh:
   <pre><code>git@github.com:DYLZO4/SFML-3.0-Boilerplate.git new-directory-name</code></pre>
 
 ### Navigate to project
-<pre><code>mkdir -p build
-cd build</code></pre>
+<pre><code>cd new-directory-name</code></pre>
 
 ### Create a build directory
-<pre> ```bash mkdir -p build cd build ``` </pre>
+<pre><code>mkdir -p build
+cd build</code></pre>
 
 ### Configure the project with CMake
 <pre><code>cmake ..</code></pre>
