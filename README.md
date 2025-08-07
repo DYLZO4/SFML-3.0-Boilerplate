@@ -12,8 +12,14 @@ A simple and clean C++ boilerplate project using [SFML (Simple and Fast Multimed
 - 🔧 Works on Linux
 
 ## 🧱 Project Structure
+<pre>sfml-boilerplate/
+├── assets/             # Place images, fonts, sounds here
+├── include/            # Header files
+├── src/                # Source files
+│   └── main.cpp        # Basic SFML window + event loop
+├── CMakeLists.txt      # CMake build configuration
+└── README.md           # This file</pre>
 
-<pre> ```plaintext sfml-boilerplate/ ├── assets/ # Place images, fonts, sounds here ├── include/ # Header files ├── src/ # Source files │ └── main.cpp # Basic SFML window + event loop ├── CMakeLists.txt # CMake build configuration └── README.md # This file ``` </pre>
 
 ## ⚙️ Prerequisites
 
