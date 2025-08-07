@@ -1,4 +1,4 @@
-# SFML Boilerplate
+# SFML 3.0 Boilerplate
 
 A simple and clean C++ boilerplate project using [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/) to help you get started with 2D game or multimedia development quickly.
 
