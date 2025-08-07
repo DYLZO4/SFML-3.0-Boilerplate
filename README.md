@@ -26,3 +26,15 @@ sfml-boilerplate/
 - [CMake 3.15+](https://cmake.org/)
 - [SFML 3.0+](https://www.sfml-dev.org/)
 
+## Usage
+
+Clone the repository
+For html:
+
+  git clone https://github.com/DYLZO4/SFML-3.0-Boilerplate.git
+
+For ssh:
+
+  git@github.com:DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name>
+  
+
