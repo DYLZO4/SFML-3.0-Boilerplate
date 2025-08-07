@@ -42,10 +42,7 @@ For ssh:
  <pre><code>cd <new-directory-name></code></pre>
 
 ### Create a build directory
- <pre><code>
-  mkdir -p build
-  cd build
- </code></pre>
+<pre> ```bash mkdir -p build cd build ``` </pre>
 
 ### Configure the project with CMake
   <pre><code>cmake..</code></pre>
