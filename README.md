@@ -1,0 +1,28 @@
+# SFML Boilerplate
+
+A simple and clean C++ boilerplate project using [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/) to help you get started with 2D game or multimedia development quickly.
+
+## ✨ Features
+
+- 🚀 Ready-to-build CMake project structure
+- 🎮 SFML window with basic event loop
+- 📁 Organized folder layout for source, headers, and assets
+- 🧪 Easy to extend for game development or multimedia apps
+- 🔧 Works on Linux
+
+## 🧱 Project Structure
+
+sfml-boilerplate/
+├── assets/ # Place images, fonts, sounds here
+├── include/ # Header files
+├── src/ # Source files
+│ └── main.cpp # Basic SFML window + event loop
+├── CMakeLists.txt # CMake build configuration
+└── README.md # This file
+
+## ⚙️ Prerequisites
+
+- C++ compiler supporting C++20 or later
+- [CMake 3.15+](https://cmake.org/)
+- [SFML 3.0+](https://www.sfml-dev.org/)
+
