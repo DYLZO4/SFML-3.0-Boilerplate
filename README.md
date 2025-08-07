@@ -39,7 +39,8 @@ For ssh:
   <pre><code>git@github.com:DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name></code></pre>
 
 ### Navigate to project
- <pre><code>cd <new-directory-name></code></pre>
+<pre><code>mkdir -p build
+cd build</code></pre>
 
 ### Create a build directory
 <pre> ```bash mkdir -p build cd build ``` </pre>
