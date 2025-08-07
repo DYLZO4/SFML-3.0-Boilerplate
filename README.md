@@ -29,12 +29,13 @@ sfml-boilerplate/
 ## Usage
 
 Clone the repository
+
 For html:
 
-  git clone https://github.com/DYLZO4/SFML-3.0-Boilerplate.git
+ <pre><code>git clone https://github.com/DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name></code></pre>
 
 For ssh:
 
-  git@github.com:DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name>
+  <pre><code>git@github.com:DYLZO4/SFML-3.0-Boilerplate.git <new-directory-name></code></pre>
   
 
