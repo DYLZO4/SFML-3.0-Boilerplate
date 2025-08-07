@@ -7,6 +7,7 @@ A simple and clean C++ boilerplate project using [SFML (Simple and Fast Multimed
 - 🚀 Ready-to-build CMake project structure
 - 🎮 SFML window with basic event loop
 - 📁 Organized folder layout for source, headers, and assets
+- 🧩 Premade classes for common SFML tasks
 - 🧪 Easy to extend for game development or multimedia apps
 - 🔧 Works on Linux
 
@@ -46,8 +47,14 @@ cd build</code></pre>
 <pre> ```bash mkdir -p build cd build ``` </pre>
 
 ### Configure the project with CMake
-  <pre><code>cmake..</code></pre>
+<pre><code>cmake ..</code></pre>
 
 ### Build the project
-  <pre><code>make</code></pre>
+<pre><code>make</code></pre>
 
+### Running
+<pre><code>./<project-name></code></pre>
+
+## 🧰 Customization Tips
+- Change project name in CMakeLists.txt
+- Add source files in src/ and headers in include/
